@@ -3,227 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="689aec1b-a1ed-499a-a38c-a3c11e043aba" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/GovSpider2/spiders/govSpider.py" afterPath="$PROJECT_DIR$/GovSpider2/GovSpider2/spiders/govSpider.py" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/wtjd/中国政府受理外国人入境、过境申请的机关有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/wtjd/公安部授权的口岸签证机关有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/wtjd/哪些情况下外国人可向被授权的口岸签证机关申办签证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/wtjd/外国人在我国病故后怎样办理遗体出境手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/wtjd/外国人申请签证需提交哪些手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/wtjd/外国公民（外籍华人）可否向中国使领馆申办公证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/wtjd/边防检查站有权阻止哪些外国人出入境？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/中国签证简介及申办程序.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/免办签证.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/前来中国需要注意什么？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/去哪里申请中国签证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/哪些外国人不准入境？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/哪些物品我国禁止进境？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/外国人入境应注意的问题有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/外国人出入境需要提交哪些材料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/外国人怎样申领口岸签证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/如何解读自己申请的中国签证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/来不及申请中国签证怎么办？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/来中国大陆需要签证吗？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/来华外国人所持签证的种类有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/来华签证简介.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/申办来华签证.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/申办来华签证常见问答.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/申请中国签证应注意什么？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/申请来华签证注意事项.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/华侨申请收养登记时应具备哪些证件和证明材料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/同性恋者能否在中国收养子女？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/哪些人可以作为被收养人？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/哪些情况下我国驻外使馆受理华侨婚姻登记？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/外国人在我国收养子女，送养人应提交哪些材料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/外国人来华收养子女如何办理收养公证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/外国人来华收养子女要缴纳哪些费用？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/外国公民（包括外籍华人）可否向中国使领馆申办公证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/外国收养人一次能领养几个中国儿童？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/外国收养人应具备哪些条件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/外国离婚判决书和调解书如何申请中国人民法院的承认？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/对已有子女的外国收养人收养中国儿童有何限制？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/wtjd/涉外离婚诉讼中子女抚养问题应如何处理？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/中国收养中心如何受理外国收养人的收养申请？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/什么是涉外婚姻？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/到中国办理结婚登记须知.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/单身外国收养人能否在中国收养子女？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/受过刑事处罚的外国人能否在中国收养子女？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/外国人在华收养子女需要提交的材料.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/外国人来华办理子女收养登记指南.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/外国收养人在什么情况下可以提出“加快办理”收养的申请？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/外国收养人如何向中国收养中心申请暂停收养？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/外国收养人如何向中国收养中心申请退出收养？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/如何向中国收养中心提交安置后报告?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/对外国收养人的年龄有什么限制？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/涉外婚姻收费标准.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/涉外收养的被收养人如何办理出境手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/爱之桥服务社（涉外收养服务机构）.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/申请涉外结婚的男女双方需提供哪些证件和证明材料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/hysy/禁止与外国人结婚的中国公民有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/两次签证是什么回事？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/中国驻外使、领馆不能提供的领事保护和服务有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/中国驻外使、领馆能够提供的领事保护和服务有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/什么是签证的停留期？签证的停留期不够怎么办？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/何种情况下需要对被引渡外国人进行暂缓引渡或临时引渡？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/内地与澳门来往的公证文书应办理哪些确认手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/内地与香港来往的公证文书应办理哪些确认手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/办理签证需要预约吗？本人去不了，可以代办吗？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/因行程改变，签证不敷使用怎么办？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/在何种情形下可以拒绝引渡请求？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/在何种情形下应当拒绝引渡请求？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/外国政府提出引渡请求需要提供哪些材料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/如何申请人民法院承认外国法院离婚判决？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/引渡执行的最长受理日期是多少天？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/引渡请求书应该包括哪些内容？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/引渡请求的审查程序是怎样的?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/引渡过境由什么机关做出决定和执行？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/我国引渡外国人有哪些强制措施？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/旅行证和护照有什么不同？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/签证的有效期和停留期有什么关系？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/wtjd/请求引渡的国家需要作出什么样的保证?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/中国驻外使领馆公证办理.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/享有领事特权与豁免权的人员必须履行哪些义务？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/什么是公证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/什么是领事保护和领事服务？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/什么是领事认证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/准予引渡外国人的条件有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/外国公民可否向中国使领馆申办公证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/外国领事官员在中国旅行需要办理居留证吗?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/领事人员可以放弃豁免权吗？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/领事官员享有哪些特权？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/领事官员享有的管辖豁免不适合于哪些民事诉讼？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/领事官员免交捐税有哪些例外？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/领事官员可以从事兼职工作吗？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lssf/领事职务简介.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/中国的四大菜系分别是哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/中国驻外旅游办事机构有哪些？联系方式是什么？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/保险.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/团体签证.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/外国人在中国可以去哪些地方旅行？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/外国人怎么乘自备交通工具来华旅行？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/外国人旅行证的有效期为多久？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/外国人申请到不对外开放的地区旅游需要哪些手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/旅游签证简介.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/申请旅游团体签证需提交什么材料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/签证.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/lygg/货币.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/公司申请变更登记，应提交哪些文件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/公司申请注销登记，应当提交哪些文件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/公司登记收费标准是什么？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/公司的登记事项包括哪些方面？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/哪些投资者可以申请获得外国人在中国永久居留权？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/境外金融机构投资入股中资金融机构，应当具备什么条件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/外商投资企业减少投资的法律程序是什么？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/外商投资旅游社最低注册资本要求是多少？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/外国金融机构设立代表处，申请人应当具备什么条件?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/外资金融机构申请更换代表机构总代表、首席代表的，应提交什么资料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/申请名称预先核准应当提交哪些文件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/申请设立有限责任公司，应提交哪些文件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/目前中国金融领域的对外开放进展如何？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/wtjd/设立外商控股旅行社的境外投资方，应符合什么条件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/中国会计服务领域引进外资情况如何？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/中国现行的外商企业所得税税率是多少？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/什么叫投资与再投资？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/什么叫投资促进？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/境内公司租用或购买境外卫星资源审批.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/外商投资星级酒店该如何审批？需要哪些部门的前置审批？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/外商投资电信企业设立审批.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/外商投资者创投的企业如何纳税？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/外商投资者能否在经营期间撤回投资？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/外商投资者设立创投企业应办理哪些程序？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/外商投资贸易公司和外商投资商业企业有什么区别?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/外国组织或者人员在我国境内进行电波参数测试.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/我国租赁服务领域引进外商投资的发展情况？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/申请设立外商投资租赁公司，应向对外贸易经济合作部报送什么文件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/swtz/申请设立外资的融资租赁公司应符合什么条件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/中国政府奖学金来华留学须知.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/中国政府奖学金都包括哪些内容？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/中国政府奖学金院校名单.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/外国留学生可以申请到哪些中国政府奖学金项目？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/如何办理来华后的有关注册手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/如何办理来华学习签证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/如何申请中国政府奖学金？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/来华留学生工作有关部门通讯方式.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/whjy/自费来华学习可通过哪些途径申请？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/wtjd/“绿卡”制度实施后对已有居留资格的外国人有何影响？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/wtjd/外国投资者获得永久居留权其注册资本要满足什么条件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/《外国人在中国永久居留审批办法》适用于哪些人？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/中国“绿卡”的收费标准是什么？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/中国签证的种类有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/什么是“绿卡”？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/免办签证政策适用于哪几种情况？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/公安部相关收费公示.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/取得永久居留资格的外国人享有哪些权利和义务？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外交部相关收费公示.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人办理永久居留证需要什么材料？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人在中国境内临时住宿申请手续.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人在中国境内出生、死亡需办理什么手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人在中国境内出生死亡应办手续.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人在华居留有哪几种类型？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人居留证申请程序.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人申请签证需要履行什么手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/外国人的签证、居留证件有效期满怎么办？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/持居留证的外国人迁入迁出应办手续.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/持有居留证件的外国人应注意事项.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/来华签证简介.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/ymdj/永久居留与定居这两个概念有什么区别？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/什么情况下外国人所持就业证自行失效?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/什么是外国人在中国就业？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/哪些外国人到中国工作可免办就业许可证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/哪些外国人在中国工作可免办就业许可证和就业证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/哪些外籍个人所得可暂免征收个人所得税？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/哪些外籍人士符合放宽入境和居留便利的条件？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国人在中国就业如需变更工作单位应办理哪些手续？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国人在中国就业所持就业证实行什么管理制度？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国人在中国就业时被派往异地，就业证如何办理？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国人在中国就业期间如何支付其工资福利待遇？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国人在中国就业由哪些部门进行管理?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国人就业证失效后如何在劳动合同期满后续订合同？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国人违反外国人在中国就业管理规定应如何处理？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/wtjd/外国旅游部门常驻代表机构的外籍人员如何办理就业证？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zhjy/外国人在中国就业证样式.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/wtjd/知识产权的司法保护措施有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/wtjd/知识产权的行政保护措施有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/专利分为哪几种不同类型？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/中国与世界版权组织合作概况.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/中国各地方政府版权局通讯录.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/什么是海关保护知识产权的两种模式？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/什么是涉外专利代理机构？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/什么是知识产权海关保护备案？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/什么是知识产权海关保护？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/全国专利代办机构通讯录.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/商标注册的收费标准是多少？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/在中国没有经常住所的外国人如何申请专利？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/如何填写知识产权海关保护备案申请书？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/怎样向海关总署缴纳备案费？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/海关保护的知识产权有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/知识产权海关保护备案应该向哪个部门提出申请？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/zscq/马德里商标国际注册书式.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/《外国专家证》办理问答.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/什么是引进国外智力?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/办理外国专家来华工作许可证须知.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/办理外国专家证须知.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/办理聘请外国专家单位资格认可须知.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/外国专家如何划分?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/外国专家的分类.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/外国专家的种类有哪些？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/如何办理《外国专家证》?.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq/聘请外国专家单位资格认可所需提供的申报材料.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/关于外国专家向单位或个人赠送图书、资料问题.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/关于外国专家进行社会调查问题.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/哪些外国专家组织可以提供技术、管理方面的义务性咨询指导服务？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/哪些外籍专家的工资、薪金所得可免征个人所得税？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/国外专家组织专家项目申报指南.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/外国专家享受的优惠和奖励.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/外国专家工资待遇.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/外国专家来华时禁止带入哪些物品？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/外国专家的合同.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/外国专家离华前要做哪些准备工作？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/如何使用《外国专家来华工作许可证》？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/如何申办《外国专家来华工作许可证》？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/海关对外国专家携带金银制品进出境有何规定？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/海关对外国专家进出境行李物品有何规定？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/foregin/banshi/zjpq_wtjd/聘请外国专家需要注意哪几个环节？.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GovSpider2/log/spiderlog20190326.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/GovSpider2/GovSpider2/settings.py" afterPath="$PROJECT_DIR$/GovSpider2/GovSpider2/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -246,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GovSpider2/GovSpider2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="420">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GovSpider2/log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -282,8 +72,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/GovSpider2/GovSpider2/pipelines.py" />
-        <option value="$PROJECT_DIR$/GovSpider2/GovSpider2/settings.py" />
         <option value="$PROJECT_DIR$/GovSpider2/GovSpider2/spiders/govSpider.py" />
+        <option value="$PROJECT_DIR$/GovSpider2/GovSpider2/settings.py" />
       </list>
     </option>
   </component>
@@ -452,14 +242,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/去哪里申请中国签证？.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GovSpider2/GovSpider2/spiders/govSpider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
@@ -520,8 +302,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GovSpider2/GovSpider2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="420">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GovSpider2/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GovSpider2/foregin/banshi/wjrs/crj/去哪里申请中国签证？.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

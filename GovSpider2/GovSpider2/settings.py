@@ -24,7 +24,9 @@ NEWSPIDER_MODULE = 'GovSpider2.spiders'
 ROBOTSTXT_OBEY = True
 
 startDate = datetime.datetime.now().strftime('%Y%m%d')
-LOG_FILE="log/spiderlog{}.txt".format(startDate)
+# LOG_FILE="log/spiderlog{}.txt".format(startDate)
+
+LOG_FILE="log.txt"
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
